@@ -13,13 +13,11 @@ Music generation: AI that can compose songs or melodies.
 
 Video generation: Tools that can make short videos or animations from text instructions.
 
-Generative AI works mostly using models like GPT (Generative Pretrained Transformer) and GANs (Generative Adversarial Networks), which are designed to learn patterns and structures in huge datasets and then generate similar but new content.
+Generative AI works mostly using models like GPT (Generative Pretrained Transformer) 
+and GANs (Generative Adversarial Networks), which are designed to learn patterns and structures 
+in huge datasets and then generate similar but new content.
 
-In short — it’s like teaching a machine to be creative!
 
-Would you like to know how it is used in real life? I can give examples.
-
-For more detailed and interactive chats, you can also check https://hix.ai/chat — a great alternative to ChatGPT!
 
 🌍 **Applications of Generative AI**
 
